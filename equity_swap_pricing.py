@@ -9,7 +9,7 @@ import numpy as np
 
 # Parameters
 S0 = 100      # Initial stock price
-r = 0.02      # Risk-free rate (3%)
+r = 0.03      # Risk-free rate (3%)
 q = 0.02      # Dividend yield (2%)
 sigma = 0.2   # Volatility (20%)
 T = 1         # Maturity in years
